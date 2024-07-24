@@ -13,7 +13,7 @@ export default function RootLayout() {
                             backgroundColor: "green"
                         }
                     }} />
-                <Tabs.Screen name="upload/index"
+                <Tabs.Screen name="upload"
                     options={{
                         title: "Unggah",
                         headerStyle: {

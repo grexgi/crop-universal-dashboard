@@ -16,6 +16,9 @@
       ]
     ],
     "name": "crop-universal-dashboard",
-    "slug": "crop-universal-dashboard"
+    "slug": "crop-universal-dashboard",
+    "android": {
+      "package": "com.grexgi.cropuniversaldashboard"
+    }
   }
 }
